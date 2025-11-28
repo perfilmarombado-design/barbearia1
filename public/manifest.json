@@ -1,0 +1,16 @@
+{
+  "name": "Barbearia América",
+  "short_name": "Barbearia",
+  "description": "Agendamento online para Barbearia América",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#d4a574",
+  "icons": [
+    {
+      "src": "/placeholder.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
